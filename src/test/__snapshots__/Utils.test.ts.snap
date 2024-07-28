@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Utils Test Suite StringUtils Test should throw error on invalid argument-arrow function: Invalid Argument 1`] = `"Invalid Argument"`;
+
+exports[`Utils Test Suite StringUtils Test should throw error on invalid argument-arrow function: Invalid Argument! 1`] = `"Invalid Argument"`;
