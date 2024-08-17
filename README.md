@@ -1,4 +1,4 @@
-# Typescript Unit testing fundemnatls impleneted  in real projects
+# Fundamentals of TypeScript Unit Testing Applied in Real Projects
 
 ### Install npm
 
